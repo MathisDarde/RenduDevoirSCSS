@@ -1,0 +1,66 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  margin: 0 auto;
+
+  &__logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 15px;
+  }
+
+  &__headerul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  &__headerli {
+    list-style-type: none;
+  }
+
+  &__headerli a {
+    margin: 0 30px;
+    text-decoration: none;
+    font-family: $secondary-font;
+    font-weight: 600;
+    color: $primary-color;
+  }
+
+  &__searchbox {
+    position: relative;
+    margin: 0 10px;
+  }
+
+  &__searchbox i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 12px;
+    z-index: 2;
+    font-size: 0.9rem;
+    color: $darkgray;
+  }
+
+  &__searchbox input {
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    padding: 0 10px 0 35px;
+    border: none;
+    position: relative;
+  }
+
+  &__loginbutton {
+    width: 175px;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    background-color: $primary-color;
+    color: $white;
+  }
+}
