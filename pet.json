@@ -1,0 +1,58 @@
+[
+  {
+    "petimg": "./img/pet1.png",
+    "petname": "MO231 - Pomeranian White",
+    "genre": "Male",
+    "age": "02 months",
+    "price": "6.900.000 VND"
+  },
+  {
+    "petimg": "./img/pet2.png",
+    "petname": "MO502 - Poodle Tiny Yellow",
+    "genre": "Female",
+    "age": "02 months",
+    "price": "3.900.000 VND"
+  },
+  {
+    "petimg": "./img/pet3.png",
+    "petname": "MO102 - Poodle Tiny Sepia",
+    "genre": "Male",
+    "age": "02 months",
+    "price": "4.000.000 VND"
+  },
+  {
+    "petimg": "./img/pet4.png",
+    "petname": "MO512 - Alaskan Malamute Grey",
+    "genre": "Male",
+    "age": "03 months",
+    "price": "8.900.000 VND"
+  },
+  {
+    "petimg": "./img/pet5.png",
+    "petname": "MO231 - Pembroke Corgi Cream",
+    "genre": "Male",
+    "age": "03 months",
+    "price": "7.900.000 VND"
+  },
+  {
+    "petimg": "./img/pet6.png",
+    "petname": "MO502 - Pembroke Corgi Tricolor",
+    "genre": "Female",
+    "age": "02 months",
+    "price": "9.000.000 VND"
+  },
+  {
+    "petimg": "./img/pet7.png",
+    "petname": "MO102 -  Pomeranian Grey",
+    "genre": "Female",
+    "age": "02 months",
+    "price": "6.500.000 VND"
+  },
+  {
+    "petimg": "./img/pet8.png",
+    "petname": "MO512 - Poodle Tiny Dairy Cow",
+    "genre": "Male",
+    "age": "03 months",
+    "price": "5.000.000 VND"
+  }
+]
